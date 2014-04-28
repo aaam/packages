@@ -2,6 +2,12 @@
 
 This file is used to list changes made in each version of chef-packages.
 
+## 0.1.1: ( April 28th, 2014)
+
+* Add a name to metadata
+
+* Initial release of chef-packages
+
 ## 0.1.0:
 
 * Initial release of chef-packages
